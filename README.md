@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirShahhosseini
-- 👀 I’m interested in mathematical control theory.
+- 👀 I’m interested in mathematical system theory.
 - 📫 amirshahhosseini97@gmail.com / amirshahhosseini@kuleuven.be
 
 <!---
