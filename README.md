@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirShahhosseini
-- 👀 I’m interested in mathematical system theory.
-- 📫 amirshahhosseini97@gmail.com / amirshahhosseini@kuleuven.be
+- 👀 I’m interested in dynamical systems and mathematical system theory.
+- 📫 amirshahhosseini@kuleuven.be
 
 <!---
 AmirShahhosseini/AmirShahhosseini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
