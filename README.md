@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirShahhosseini
-- 👀 I’m interested in dynamical systems and mathematical system theory.
+- 👀 I’m interested in dynamical systems and the mathematics of system theory.
 - 📫 amirshahhosseini@kuleuven.be
 
 <!---
